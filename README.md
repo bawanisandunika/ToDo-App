@@ -9,7 +9,7 @@ Local Storage: Save tasks securely on your device.
 
 
 Getting Started 🛠️
-Clone the Repository: git clone https://github.com/your-username/ToDoApp.git
+Clone the Repository: git clone https://github.com/bawanisandunika/ToDo-App/upload/main
 Open in Android Studio: Import the project into Android Studio.
 Build and Run: Hit the play button to launch ToDoApp on your device.
 
